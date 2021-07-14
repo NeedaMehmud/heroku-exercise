@@ -1,3 +1,3 @@
 # heroku-exercise
 
-This is an exercise to deploy the app to heroku
+This is an exercise on how to deploy the app on heroku
